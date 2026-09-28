@@ -25,11 +25,11 @@ with col1:
  url = "https://appgradiente-eifxnarapplztndnmko8uqw.streamlit.app/"
  st.write(f"Texto a voz: [Enlace]({url})")
 
- st.subheader("Reconocimiento de Objetos")
+ st.subheader("App Regresion")
  image = Image.open('txt_to_audio.png')
  st.image(image, width=200)
- st.write("En la siguiente enlace veremos como se detectan objetos en Imágenes.") 
- url = "https://yolov5cmc.streamlit.app/"
+ st.write("En el siguiente enlace se puede observar la pagina") 
+ url = "https://appregresion-rvyrps9sawmnrvcdmmc4m2.streamlit.app/"
  st.write(f"YOLO: [Enlace]({url})")
 
  st.subheader("Entrenando Modelos")
